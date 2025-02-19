@@ -1,0 +1,18 @@
+Date:2023-07-20 10:56:26
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1689825386","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Muhammad Ikhsan","email":"muhammadican617@gmail.com","phoneNumber":"82278541106","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Muhammad Ikhsan","lastName":"","email":"muhammadican617@gmail.com","phoneNumber":"82278541106"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580X7ODKVDXNATND0F","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580X7ODKVDXNATND0F","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-20 21:16:47
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1689862607","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Rahmawati. AR","email":"darmawakti@gmail.com","phoneNumber":"82346947704","itemDetails":[{"name":"Paket Basic Promkes","price":45000,"quantity":1}],"customerDetail":{"firstName":"Rahmawati. AR","lastName":"","email":"darmawakti@gmail.com","phoneNumber":"82346947704"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D1158086LETP70OKWOM2T","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1158086LETP70OKWOM2T","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-20 21:20:43
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"45000","merchantOrderId":"1689862607","productDetail":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","resultCode":"00","signature":"db1364f1675f8dd6412ac325572626ce","paymentCode":"I1","merchantUserId":"","reference":"D1158086LETP70OKWOM2T","spUserHash":"","settlementDate":"2023-07-21","publisherOrderId":"I105IQZRZF8C1SSRL","sourceAccount":""}
+

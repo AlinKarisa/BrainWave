@@ -1,0 +1,60 @@
+Date:2023-07-16 03:24:21
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":80000,"merchantOrderId":"1689452660","productDetails":"Pembelian Paket (CPNS) SKB Perawat","additionalParam":"","merchantUserInfo":"","customerVaName":"Rendi Adip Prawiro","email":"rendiadip22@gmail.com","phoneNumber":"81322066306","itemDetails":[{"name":"Paket Premium Perawat","price":80000,"quantity":1}],"customerDetail":{"firstName":"Rendi Adip Prawiro","lastName":"","email":"rendiadip22@gmail.com","phoneNumber":"81322066306"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580OJPZPP1G5TT81B1","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580OJPZPP1G5TT81B1","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-16 13:19:12
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1689488352","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Thya Zivare","email":"zivarethya@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Premium Bidan","price":85000,"quantity":1}],"customerDetail":{"firstName":"Thya Zivare","lastName":"","email":"zivarethya@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580OP5LXC4GPEW0TAR","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580OP5LXC4GPEW0TAR","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-16 13:19:58
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1689488398","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Thya Zivare","email":"zivarethya@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Premium Bidan","price":85000,"quantity":1}],"customerDetail":{"firstName":"Thya Zivare","lastName":"","email":"zivarethya@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115804LNLI7CRARVPJ11","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115804LNLI7CRARVPJ11","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-16 13:23:19
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1689488599","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Basic Adminkes","price":45000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580HFWU573JY6SW2ZN","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580HFWU573JY6SW2ZN","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-16 13:35:04
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1689489304","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"drama2713@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"drama2713@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115806ZSSZJ1X0WB2ET4","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115806ZSSZJ1X0WB2ET4","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-16 13:35:43
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1689489342","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Thya Zivare","email":"zivarethya@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"Thya Zivare","lastName":"","email":"zivarethya@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115805OPC45V25HLABON","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115805OPC45V25HLABON","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-16 13:57:42
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1689490662","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Thya Zivare","email":"zivarethya@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Basic Adminkes","price":45000,"quantity":1}],"customerDetail":{"firstName":"Thya Zivare","lastName":"","email":"zivarethya@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580CMAFCEZR5B1O7H1","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580CMAFCEZR5B1O7H1","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-16 19:19:20
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1689509959","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Thya Zivare","email":"zivarethya@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Thya Zivare","lastName":"","email":"zivarethya@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580ZANLAQCAZWY2YMV","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580ZANLAQCAZWY2YMV","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-16 19:22:11
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1689509959","productDetail":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580ZANLAQCAZWY2YMV","signature":"cf0aa422c6147b0c2c290105d3c635d4","publisherOrderId":"BR2NGN73ZHJ6WZWCQ","settlementDate":"2023-07-17","vaNumber":"1308300531272655","sourceAccount":""}
+

@@ -1,0 +1,14 @@
+Date:2024-03-08 16:43:23
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":800000,"merchantOrderId":"1709891003","productDetails":"Pembelian Paket Sekolah Kedinasan non Ikatan Dinas","additionalParam":"","merchantUserInfo":"","customerVaName":"Kadek Ayu Lestari","email":"kadek.ayu16175@sma.belajar.id","phoneNumber":"085756128112","itemDetails":[{"name":"4 KELAS INTENSIF","price":800000,"quantity":1}],"customerDetail":{"firstName":"Kadek Ayu Lestari","lastName":"","email":"kadek.ayu16175@sma.belajar.id","phoneNumber":"085756128112"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS17674247QMWC2QWS2OOT0A","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS17674247QMWC2QWS2OOT0A","amount":"800000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-03-08 16:43:47
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1709891027","productDetails":"Pembelian Paket Sekolah Kedinasan non Ikatan Dinas","additionalParam":"","merchantUserInfo":"","customerVaName":"Kadek Ayu Lestari","email":"kadek.ayu16175@sma.belajar.id","phoneNumber":"085756128112","itemDetails":[{"name":"Tryout Sekdin non Ikatan Dinas","price":150000,"quantity":1}],"customerDetail":{"firstName":"Kadek Ayu Lestari","lastName":"","email":"kadek.ayu16175@sma.belajar.id","phoneNumber":"085756128112"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424ZCEPHX8OKD1KDWL","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424ZCEPHX8OKD1KDWL","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

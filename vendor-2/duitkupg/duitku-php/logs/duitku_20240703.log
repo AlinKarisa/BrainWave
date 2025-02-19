@@ -1,0 +1,14 @@
+Date:2024-07-03 15:24:17
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":50000,"merchantOrderId":"1719995057","productDetails":"Pembelian Paket MK3","additionalParam":"","merchantUserInfo":"","customerVaName":"Arum Kusuma","email":"arum.kusuma.i.j@gmail.com","phoneNumber":"085156117056","itemDetails":[{"name":"test","price":50000,"quantity":1}],"customerDetail":{"firstName":"Arum Kusuma","lastName":"","email":"arum.kusuma.i.j@gmail.com","phoneNumber":"085156117056"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://orangdalam.ujian.or.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D14889241MJU6Z6ZPMHY15N","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D14889241MJU6Z6ZPMHY15N","amount":"50000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-07-03 15:31:49
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":200000,"merchantOrderId":"1719995508","productDetails":"Pembelian Paket MK5","additionalParam":"","merchantUserInfo":"","customerVaName":"Arum Kusuma","email":"arum.kusuma.i.j@gmail.com","phoneNumber":"085156117056","itemDetails":[{"name":"kewirausahaan","price":200000,"quantity":1}],"customerDetail":{"firstName":"Arum Kusuma","lastName":"","email":"arum.kusuma.i.j@gmail.com","phoneNumber":"085156117056"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://orangdalam.ujian.or.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924W54OJRTZD3PJYUH","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924W54OJRTZD3PJYUH","amount":"200000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

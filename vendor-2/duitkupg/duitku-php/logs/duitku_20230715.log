@@ -1,0 +1,11 @@
+Date:2023-07-15 10:51:03
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1689393063","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Nanda Dewinta","email":"nandadewinta06@gmail.com","phoneNumber":"81358621953","itemDetails":[{"name":"Paket Spesial Epid (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Nanda Dewinta","lastName":"","email":"nandadewinta06@gmail.com","phoneNumber":"81358621953"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115801TV2S8W2TZ3ZDI3","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115801TV2S8W2TZ3ZDI3","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-15 10:55:48
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1689393063","productDetail":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","resultCode":"00","signature":"1d458a98c643827200ba6586e9883987","paymentCode":"DA","merchantUserId":"","reference":"D115801TV2S8W2TZ3ZDI3","spUserHash":"","settlementDate":"2023-07-17","publisherOrderId":"DA7QFMF5S0LMVVW2G"}
+

@@ -1,0 +1,14 @@
+Date:2024-03-12 12:00:47
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":800000,"merchantOrderId":"1710219634","productDetails":"Pembelian Paket Sekolah Kedinasan non Ikatan Dinas","additionalParam":"","merchantUserInfo":"","customerVaName":"Leny Yunengsih","email":"bamboo.apus@yahoo.com","phoneNumber":"08174933147","itemDetails":[{"name":"4 KELAS INTENSIF","price":800000,"quantity":1}],"customerDetail":{"firstName":"Leny Yunengsih","lastName":"","email":"bamboo.apus@yahoo.com","phoneNumber":"08174933147"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS17674244PP7SN6OVV0LBZZ","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS17674244PP7SN6OVV0LBZZ","amount":"800000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-03-12 12:01:29
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1710219688","productDetails":"Pembelian Paket Sekolah Kedinasan non Ikatan Dinas","additionalParam":"","merchantUserInfo":"","customerVaName":"Leny Yunengsih","email":"bamboo.apus@yahoo.com","phoneNumber":"08174933147","itemDetails":[{"name":"Tryout Sekdin non Ikatan Dinas","price":150000,"quantity":1}],"customerDetail":{"firstName":"Leny Yunengsih","lastName":"","email":"bamboo.apus@yahoo.com","phoneNumber":"08174933147"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424D0A5SW88SAJ1RT2","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424D0A5SW88SAJ1RT2","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

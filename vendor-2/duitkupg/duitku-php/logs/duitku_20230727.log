@@ -1,0 +1,42 @@
+Date:2023-07-27 12:12:37
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1690434757","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Premium Bidan","price":85000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580WY65INVTOSNZWNW","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580WY65INVTOSNZWNW","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-27 16:03:45
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1690448625","productDetails":"Pembelian Paket (CPNS) SKB Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115801YX7OJXAUAG7Z77","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115801YX7OJXAUAG7Z77","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-27 16:06:30
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1690448789","productDetails":"Pembelian Paket (CPNS) SKB Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Sandy Robert","email":"saaandy1596@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"Sandy Robert","lastName":"","email":"saaandy1596@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580BNBN05T7OQ1DBPD","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580BNBN05T7OQ1DBPD","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-27 16:07:39
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1690448859","productDetails":"Pembelian Paket (CPNS) SKB Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Sandy Robert","email":"saaandy1596@gmail.com","phoneNumber":"085921258745","itemDetails":[{"name":"Paket Premium Bidan","price":85000,"quantity":1}],"customerDetail":{"firstName":"Sandy Robert","lastName":"","email":"saaandy1596@gmail.com","phoneNumber":"085921258745"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580Y2FPEYXL17KS7TL","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580Y2FPEYXL17KS7TL","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-27 16:09:21
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1690448961","productDetails":"Pembelian Paket (CPNS) SKB Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Sandy Robert","email":"saaandy1596@gmail.com","phoneNumber":"085921258745","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"Sandy Robert","lastName":"","email":"saaandy1596@gmail.com","phoneNumber":"085921258745"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580A1WT7ZQM4XPYBS5","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580A1WT7ZQM4XPYBS5","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-27 16:30:31
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1690450230","productDetails":"Pembelian Paket (CPNS) SKB Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115803M6IKE1UN7FYCGO","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115803M6IKE1UN7FYCGO","statusCode":"00","statusMessage":"SUCCESS"}
+

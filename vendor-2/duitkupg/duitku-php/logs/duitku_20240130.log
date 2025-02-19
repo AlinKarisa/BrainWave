@@ -1,0 +1,14 @@
+Date:2024-01-30 09:35:30
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":1499000,"merchantOrderId":"1706582130","productDetails":"Pembelian Paket AKMIL","additionalParam":"","merchantUserInfo":"","customerVaName":"Ardhina S.D","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Reguler - AKMIL","price":1499000,"quantity":1}],"customerDetail":{"firstName":"Ardhina S.D","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424PWKYF24II4THWLU","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424PWKYF24II4THWLU","amount":"1499000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-01-30 10:20:38
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":500000,"merchantOrderId":"1706584837","productDetails":"Pembelian Paket PSIKOTEST","additionalParam":"","merchantUserInfo":"","customerVaName":"Ahmad Syukri","email":"ini.ruangkreatif@gmail.com","phoneNumber":"83163039445","itemDetails":[{"name":"Kelas Psikotes","price":500000,"quantity":1}],"customerDetail":{"firstName":"Ahmad Syukri","lastName":"","email":"ini.ruangkreatif@gmail.com","phoneNumber":"83163039445"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424O282FYX3QEC82WO","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424O282FYX3QEC82WO","amount":"500000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

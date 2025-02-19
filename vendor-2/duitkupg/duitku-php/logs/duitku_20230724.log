@@ -1,0 +1,32 @@
+Date:2023-07-24 13:49:11
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":90000,"merchantOrderId":"1690181351","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Santrima mangiwa","email":"santimangiwa@gmail.com","phoneNumber":"85240905042","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":90000,"quantity":1}],"customerDetail":{"firstName":"Santrima mangiwa","lastName":"","email":"santimangiwa@gmail.com","phoneNumber":"85240905042"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D1158050OLKH7AV8QGAUP","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1158050OLKH7AV8QGAUP","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-24 13:53:27
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690181607","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Santrima mangiwa","email":"santimangiwa@gmail.com","phoneNumber":"85240905042","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Santrima mangiwa","lastName":"","email":"santimangiwa@gmail.com","phoneNumber":"85240905042"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580UVTNSDGPARC5V13","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580UVTNSDGPARC5V13","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-24 13:55:26
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":90000,"merchantOrderId":"1690181726","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Santrima mangiwa","email":"santimangiwa@gmail.com","phoneNumber":"85240905042","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":90000,"quantity":1}],"customerDetail":{"firstName":"Santrima mangiwa","lastName":"","email":"santimangiwa@gmail.com","phoneNumber":"85240905042"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580HEKVQT6LPPRE6Q6","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580HEKVQT6LPPRE6Q6","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-24 14:32:58
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"90000","merchantOrderId":"1690181726","productDetail":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","resultCode":"00","signature":"13997155090bae3e45136e0e386564b0","paymentCode":"I1","merchantUserId":"","reference":"D11580HEKVQT6LPPRE6Q6","spUserHash":"","settlementDate":"2023-07-25","publisherOrderId":"I1FOZLKRNWG583UQV","sourceAccount":""}
+
+Date:2023-07-24 17:27:02
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1690194422","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Basic Adminkes","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580EWVZQMQGHF2XHZE","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580EWVZQMQGHF2XHZE","statusCode":"00","statusMessage":"SUCCESS"}
+

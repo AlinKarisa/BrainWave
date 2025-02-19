@@ -1,0 +1,32 @@
+Date:2023-07-19 09:12:25
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1689732745","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Basic Adminkes","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D1158022416CGIEXUVP6E","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1158022416CGIEXUVP6E","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-19 09:12:57
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1689732777","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Basic Adminkes","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580XPKP1QW33NIN23M","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580XPKP1QW33NIN23M","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-19 09:15:35
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1689732935","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Basic Adminkes","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D1158073GDXM1KNZPK6Y4","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1158073GDXM1KNZPK6Y4","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-19 10:02:51
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":90000,"merchantOrderId":"1689735771","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Nina Daniati","email":"ninadaniatissg@gmail.com","phoneNumber":"81220192986","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":90000,"quantity":1}],"customerDetail":{"firstName":"Nina Daniati","lastName":"","email":"ninadaniatissg@gmail.com","phoneNumber":"81220192986"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580XPWOJ31O0PPFLYE","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580XPWOJ31O0PPFLYE","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-19 10:04:51
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"90000","merchantOrderId":"1689735771","productDetail":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","resultCode":"00","signature":"7f1325021ff04b56ca1cdf6641468e6f","paymentCode":"SA","merchantUserId":"","reference":"D11580XPWOJ31O0PPFLYE","spUserHash":"068f70c7cdb827abf174546eb964ef47d63b37ec73f232bccfc2e3b55776995d","settlementDate":"2023-07-21","publisherOrderId":"SAJZZCHPKT8JTQLYX"}
+

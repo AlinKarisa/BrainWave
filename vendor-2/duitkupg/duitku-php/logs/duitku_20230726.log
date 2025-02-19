@@ -1,0 +1,28 @@
+Date:2023-07-26 09:20:20
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690338019","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Yunita anggraini","email":"Anggrainiyunita81@gmail.com","phoneNumber":"085266080531","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Yunita anggraini","lastName":"","email":"Anggrainiyunita81@gmail.com","phoneNumber":"085266080531"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580NA5ZRFP6TRZU1BC","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580NA5ZRFP6TRZU1BC","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-26 09:22:14
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690338134","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Yunita anggraini","email":"Anggrainiyunita81@gmail.com","phoneNumber":"085266080531","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Yunita anggraini","lastName":"","email":"Anggrainiyunita81@gmail.com","phoneNumber":"085266080531"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115805TOGKFV7PZPWI4A","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115805TOGKFV7PZPWI4A","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-26 09:23:27
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690338207","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Yunita anggraini","email":"Anggrainiyunita81@gmail.com","phoneNumber":"085266080531","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Yunita anggraini","lastName":"","email":"Anggrainiyunita81@gmail.com","phoneNumber":"085266080531"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115803VVSICAJYGR00P7","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115803VVSICAJYGR00P7","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-26 22:19:35
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690384775","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Reno Boer","email":"renosuri.rb@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Reno Boer","lastName":"","email":"renosuri.rb@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580EY0W0PTWHLZ5K2J","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580EY0W0PTWHLZ5K2J","statusCode":"00","statusMessage":"SUCCESS"}
+

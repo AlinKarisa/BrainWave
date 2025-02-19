@@ -1,0 +1,46 @@
+Date:2023-08-01 07:47:27
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690850847","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Ika Nurhatikah","email":"ikanurhatikah30@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Ika Nurhatikah","lastName":"","email":"ikanurhatikah30@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580BGAAMGGBMFR11VZ","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580BGAAMGGBMFR11VZ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-01 10:24:08
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690860248","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Ika Nurhatikah","email":"ikanurhatikah30@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Ika Nurhatikah","lastName":"","email":"ikanurhatikah30@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580GZJHCUSWAYJV33Z","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580GZJHCUSWAYJV33Z","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-01 10:26:34
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690860394","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Ika Nurhatikah","email":"ikanurhatikah30@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Ika Nurhatikah","lastName":"","email":"ikanurhatikah30@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580MIZ2L1IHYR6O1GR","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580MIZ2L1IHYR6O1GR","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-01 10:31:21
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690860681","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580ZB10NMRTFYIK0N4","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580ZB10NMRTFYIK0N4","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-01 10:35:52
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690860952","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Ika Nurhatikah","email":"ikanurhatikah30@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Ika Nurhatikah","lastName":"","email":"ikanurhatikah30@gmail.com","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580DQXFDPRZ3W5WUZ4","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580DQXFDPRZ3W5WUZ4","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-01 10:37:47
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1690860952","productDetail":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","resultCode":"00","signature":"832ca8dafe0b7fb5bf2dc378879cdfcf","paymentCode":"SA","merchantUserId":"","reference":"D11580DQXFDPRZ3W5WUZ4","spUserHash":"13c7fe16de10ccb060348180dfacf34c4463bc37c005f6e173035397b77f1720","settlementDate":"2023-08-03","publisherOrderId":"SAN7QY68F0EE6T78P"}
+
+Date:2023-08-01 10:51:01
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1690861861","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580SS68XRC2QHMZ381","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580SS68XRC2QHMZ381","statusCode":"00","statusMessage":"SUCCESS"}
+

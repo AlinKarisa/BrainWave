@@ -1,0 +1,32 @@
+Date:2023-07-12 09:27:48
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":60000,"merchantOrderId":"1689128868","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"demotes","email":"adeulala5@gmail.com","phoneNumber":"81973613029","itemDetails":[{"name":"Paket Standar Sekdin","price":60000,"quantity":1}],"customerDetail":{"firstName":"demotes","lastName":"","email":"adeulala5@gmail.com","phoneNumber":"81973613029"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580S1JPSK53WLK5LI5","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580S1JPSK53WLK5LI5","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-12 14:58:06
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":80000,"merchantOrderId":"1689148685","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Premium Sekdin","price":80000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115803L8V8AF7NC7MJMS","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115803L8V8AF7NC7MJMS","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-12 17:04:44
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1689156284","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Dewi lestari","email":"dewilestarisaja296@gmail.com","phoneNumber":"082345637369","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Dewi lestari","lastName":"","email":"dewilestarisaja296@gmail.com","phoneNumber":"082345637369"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580EGQZ6CWLHZW2NFQ","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580EGQZ6CWLHZW2NFQ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-12 17:05:58
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1689156357","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Dewi lestari","email":"dewilestarisaja296@gmail.com","phoneNumber":"082345637369","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Dewi lestari","lastName":"","email":"dewilestarisaja296@gmail.com","phoneNumber":"082345637369"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580HLZSCC6KLSP5FHO","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580HLZSCC6KLSP5FHO","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-12 17:32:54
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1689156357","productDetail":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580HLZSCC6KLSP5FHO","signature":"eabf320692dd528031a5a00753b0dfc1","publisherOrderId":"BR7N3G8NRYQVZOFXG","settlementDate":"2023-07-13","vaNumber":"1308300487288833","sourceAccount":""}
+

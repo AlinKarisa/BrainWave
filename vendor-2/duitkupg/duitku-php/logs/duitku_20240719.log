@@ -1,0 +1,14 @@
+Date:2024-07-19 14:46:53
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":30000,"merchantOrderId":"1721375212","productDetails":"Pembelian Paket subkategori test 1","additionalParam":"","merchantUserInfo":"","customerVaName":"Pranaditya Kesya","email":"prana23@gmail.com","phoneNumber":"0882005365179","itemDetails":[{"name":"tes paket","price":30000,"quantity":1}],"customerDetail":{"firstName":"Pranaditya Kesya","lastName":"","email":"prana23@gmail.com","phoneNumber":"0882005365179"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://apps.orangdalam.co.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924KDBJ02RNEBKI3ZZ","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924KDBJ02RNEBKI3ZZ","amount":"30000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-07-19 14:48:16
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":30000,"merchantOrderId":"1721375295","productDetails":"Pembelian Paket subkategori test 1","additionalParam":"","merchantUserInfo":"","customerVaName":"Pranaditya Kesya","email":"prana23@gmail.com","phoneNumber":"0882005365179","itemDetails":[{"name":"tes paket","price":30000,"quantity":1}],"customerDetail":{"firstName":"Pranaditya Kesya","lastName":"","email":"prana23@gmail.com","phoneNumber":"0882005365179"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://apps.orangdalam.co.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924KMF0SFRYEYVQXCR","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924KMF0SFRYEYVQXCR","amount":"30000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

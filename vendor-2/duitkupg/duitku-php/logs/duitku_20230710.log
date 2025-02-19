@@ -1,0 +1,25 @@
+Date:2023-07-10 08:19:27
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1688951967","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"83104686247","itemDetails":[{"name":"Paket Premium Bidan","price":85000,"quantity":1}],"customerDetail":{"firstName":"Ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"83104686247"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580CSB8PI21QE3LUWU","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580CSB8PI21QE3LUWU","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-10 09:34:13
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1688956453","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580U0MIQNSDAUFPAPV","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580U0MIQNSDAUFPAPV","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-10 15:57:53
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":97000,"merchantOrderId":"1688979473","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"gita silvia","email":"gitasilvia2121@gmail.com","phoneNumber":"082285139365","itemDetails":[{"name":"Paket Spesial Bidan (+Ebook Soal)","price":97000,"quantity":1}],"customerDetail":{"firstName":"gita silvia","lastName":"","email":"gitasilvia2121@gmail.com","phoneNumber":"082285139365"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580TJT8DVD4QZ7IHOA","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580TJT8DVD4QZ7IHOA","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-10 16:01:18
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"97000","merchantOrderId":"1688979473","productDetail":"Pembelian Paket (PPPK) Bidan","additionalParam":"","resultCode":"00","signature":"8844b6c6b984719624692a751406edff","paymentCode":"I1","merchantUserId":"","reference":"D11580TJT8DVD4QZ7IHOA","spUserHash":"","settlementDate":"2023-07-11","publisherOrderId":"I15QMF5X1YMR0VP0S"}
+

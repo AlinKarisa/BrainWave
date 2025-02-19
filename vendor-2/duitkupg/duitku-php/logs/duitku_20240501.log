@@ -1,0 +1,14 @@
+Date:2024-05-01 17:56:39
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":49900,"merchantOrderId":"1714560998","productDetails":"Pembelian Paket [Premium] Paket 3 TO + 1 TO Gratis","additionalParam":"","merchantUserInfo":"","customerVaName":"Vina","email":"vinasariyosephine@yahoo.com","phoneNumber":"081932010007","itemDetails":[{"name":"[Premium 3 Paket] Tryout CPNS/ASN 2024","price":49900,"quantity":1}],"customerDetail":{"firstName":"Vina","lastName":"","email":"vinasariyosephine@yahoo.com","phoneNumber":"081932010007"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://apps.andalancpns.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D14889247J0D35UO7U321TU","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D14889247J0D35UO7U321TU","amount":"49900.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-05-01 17:59:18
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":99900,"merchantOrderId":"1714561158","productDetails":"Pembelian Paket [Premium] Paket 12 TO + 1 TO Gratis","additionalParam":"","merchantUserInfo":"","customerVaName":"Vina","email":"vinasariyosephine@yahoo.com","phoneNumber":"081932010007","itemDetails":[{"name":"[Premium 12 Paket] Tryout CPNS/ASN 2024","price":99900,"quantity":1}],"customerDetail":{"firstName":"Vina","lastName":"","email":"vinasariyosephine@yahoo.com","phoneNumber":"081932010007"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://apps.andalancpns.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D14889244ZOIWH1K648YVUB","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D14889244ZOIWH1K648YVUB","amount":"99900.00","statusCode":"00","statusMessage":"SUCCESS"}
+

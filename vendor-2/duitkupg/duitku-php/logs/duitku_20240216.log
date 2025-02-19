@@ -1,0 +1,126 @@
+Date:2024-02-16 13:14:23
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":1299000,"merchantOrderId":"1708064062","productDetails":"Pembelian Paket BINTARA TNI-POLRI","additionalParam":"","merchantUserInfo":"","customerVaName":"Septia Ningsih","email":"lisaseptianingsih28@gmail.com","phoneNumber":"082289894640","itemDetails":[{"name":"Paket Reguler - BINTARA POLRI","price":1299000,"quantity":1}],"customerDetail":{"firstName":"Septia Ningsih","lastName":"","email":"lisaseptianingsih28@gmail.com","phoneNumber":"082289894640"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424UK85UIIKCLRI23S","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424UK85UIIKCLRI23S","amount":"1299000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:14:56
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1708064095","productDetails":"Pembelian Paket BINTARA TNI-POLRI","additionalParam":"","merchantUserInfo":"","customerVaName":"Septia Ningsih","email":"lisaseptianingsih28@gmail.com","phoneNumber":"082289894640","itemDetails":[{"name":"Tryout Bintara POLRI","price":150000,"quantity":1}],"customerDetail":{"firstName":"Septia Ningsih","lastName":"","email":"lisaseptianingsih28@gmail.com","phoneNumber":"082289894640"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS17674242HDWYL5A0TKR286","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS17674242HDWYL5A0TKR286","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:16:38
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":799000,"merchantOrderId":"1708064198","productDetails":"Pembelian Paket BINTARA TNI-POLRI","additionalParam":"","merchantUserInfo":"","customerVaName":"Muhammad Yusuf","email":"muhammadyusuf21013@gmail.com","phoneNumber":"082176204149","itemDetails":[{"name":"Paket Basic -  BINTARA POLRI","price":799000,"quantity":1}],"customerDetail":{"firstName":"Muhammad Yusuf","lastName":"","email":"muhammadyusuf21013@gmail.com","phoneNumber":"082176204149"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424GECBDXVGCW1EFUV","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424GECBDXVGCW1EFUV","amount":"799000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:17:17
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1708064236","productDetails":"Pembelian Paket BINTARA TNI-POLRI","additionalParam":"","merchantUserInfo":"","customerVaName":"Muhammad Yusuf","email":"muhammadyusuf21013@gmail.com","phoneNumber":"082176204149","itemDetails":[{"name":"Tryout Bintara POLRI","price":150000,"quantity":1}],"customerDetail":{"firstName":"Muhammad Yusuf","lastName":"","email":"muhammadyusuf21013@gmail.com","phoneNumber":"082176204149"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424JO8W3G8Q1561IWY","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424JO8W3G8Q1561IWY","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:18:41
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":2200000,"merchantOrderId":"1708064320","productDetails":"Pembelian Paket BINTARA TNI-POLRI","additionalParam":"","merchantUserInfo":"","customerVaName":"Gentar Hadi Pratama","email":"gentarprtm@gmail.com","phoneNumber":"085783988367","itemDetails":[{"name":"Paket VIP PLUS - BINTARA POLRI","price":2200000,"quantity":1}],"customerDetail":{"firstName":"Gentar Hadi Pratama","lastName":"","email":"gentarprtm@gmail.com","phoneNumber":"085783988367"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424D3X85KKQQKUDODM","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424D3X85KKQQKUDODM","amount":"2200000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:21:04
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1708064464","productDetails":"Pembelian Paket BINTARA TNI-POLRI","additionalParam":"","merchantUserInfo":"","customerVaName":"Gentar Hadi Pratama","email":"gentarprtm@gmail.com","phoneNumber":"085783988367","itemDetails":[{"name":"Tryout Bintara POLRI","price":150000,"quantity":1}],"customerDetail":{"firstName":"Gentar Hadi Pratama","lastName":"","email":"gentarprtm@gmail.com","phoneNumber":"085783988367"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS17674245YRMLFIUUOYH3GC","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS17674245YRMLFIUUOYH3GC","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:22:24
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":2200000,"merchantOrderId":"1708064543","productDetails":"Pembelian Paket IPDN","additionalParam":"","merchantUserInfo":"","customerVaName":"Khayla Nadhifa","email":"khaylanadhifa10@gmail.com","phoneNumber":"08980370202","itemDetails":[{"name":"Paket VIP PLUS - IPDN","price":2200000,"quantity":1}],"customerDetail":{"firstName":"Khayla Nadhifa","lastName":"","email":"khaylanadhifa10@gmail.com","phoneNumber":"08980370202"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS176742450EEJP758WOH8AZ","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS176742450EEJP758WOH8AZ","amount":"2200000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:22:54
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1708064573","productDetails":"Pembelian Paket IPDN","additionalParam":"","merchantUserInfo":"","customerVaName":"Khayla Nadhifa","email":"khaylanadhifa10@gmail.com","phoneNumber":"08980370202","itemDetails":[{"name":"Tryout IPDN","price":150000,"quantity":1}],"customerDetail":{"firstName":"Khayla Nadhifa","lastName":"","email":"khaylanadhifa10@gmail.com","phoneNumber":"08980370202"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424STO3WQP386QINT4","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424STO3WQP386QINT4","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:24:41
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":799000,"merchantOrderId":"1708064680","productDetails":"Pembelian Paket AKPOL","additionalParam":"","merchantUserInfo":"","customerVaName":"Ester Naomi Br. Siah","email":"estersiahaan018@gmail.com","phoneNumber":"081262057207","itemDetails":[{"name":"Paket Basic - AKPOL","price":799000,"quantity":1}],"customerDetail":{"firstName":"Ester Naomi Br. Siahaan","lastName":"","email":"estersiahaan018@gmail.com","phoneNumber":"081262057207"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424XASFXYCQQOE13NE","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424XASFXYCQQOE13NE","amount":"799000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:25:07
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1708064707","productDetails":"Pembelian Paket AKPOL","additionalParam":"","merchantUserInfo":"","customerVaName":"Ester Naomi Br. Siah","email":"estersiahaan018@gmail.com","phoneNumber":"081262057207","itemDetails":[{"name":"Tryout AKPOL","price":150000,"quantity":1}],"customerDetail":{"firstName":"Ester Naomi Br. Siahaan","lastName":"","email":"estersiahaan018@gmail.com","phoneNumber":"081262057207"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424VXK0GVNB5SRZTGK","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424VXK0GVNB5SRZTGK","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:26:43
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":800000,"merchantOrderId":"1708064803","productDetails":"Pembelian Paket Sekolah Kedinasan non Ikatan Dinas","additionalParam":"","merchantUserInfo":"","customerVaName":"Galang Ghussan Raida","email":"galangraidan@gmail.com","phoneNumber":"081293159265","itemDetails":[{"name":"4 KELAS INTENSIF","price":800000,"quantity":1}],"customerDetail":{"firstName":"Galang Ghussan Raidan","lastName":"","email":"galangraidan@gmail.com","phoneNumber":"081293159265"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424B6AVJL6HZ2GJFDW","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424B6AVJL6HZ2GJFDW","amount":"800000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:27:36
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1708064855","productDetails":"Pembelian Paket Sekolah Kedinasan non Ikatan Dinas","additionalParam":"","merchantUserInfo":"","customerVaName":"Galang Ghussan Raida","email":"galangraidan@gmail.com","phoneNumber":"081293159265","itemDetails":[{"name":"Tryout Sekdin non Ikatan Dinas","price":150000,"quantity":1}],"customerDetail":{"firstName":"Galang Ghussan Raidan","lastName":"","email":"galangraidan@gmail.com","phoneNumber":"081293159265"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424CTTP3I6A2MINO6A","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424CTTP3I6A2MINO6A","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:29:11
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":800000,"merchantOrderId":"1708064951","productDetails":"Pembelian Paket Sekolah Kedinasan non Ikatan Dinas","additionalParam":"","merchantUserInfo":"","customerVaName":"Ananta Kusuma Wardan","email":"anantak638@gmail.com","phoneNumber":"087766640728","itemDetails":[{"name":"4 KELAS INTENSIF","price":800000,"quantity":1}],"customerDetail":{"firstName":"Ananta Kusuma Wardani","lastName":"","email":"anantak638@gmail.com","phoneNumber":"087766640728"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS17674242ZE4VJON02P2EJ5","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS17674242ZE4VJON02P2EJ5","amount":"800000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:30:43
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1708065042","productDetails":"Pembelian Paket Sekolah Kedinasan non Ikatan Dinas","additionalParam":"","merchantUserInfo":"","customerVaName":"Ananta Kusuma Wardan","email":"anantak638@gmail.com","phoneNumber":"087766640728","itemDetails":[{"name":"Tryout Sekdin non Ikatan Dinas","price":150000,"quantity":1}],"customerDetail":{"firstName":"Ananta Kusuma Wardani","lastName":"","email":"anantak638@gmail.com","phoneNumber":"087766640728"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS17674242LUNZ4I4PKV3L8B","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS17674242LUNZ4I4PKV3L8B","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:45:13
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":2200000,"merchantOrderId":"1708065913","productDetails":"Pembelian Paket IPDN","additionalParam":"","merchantUserInfo":"","customerVaName":"Nadya Utami Tambunan","email":"nan532829@gmail.com","phoneNumber":"085370538480","itemDetails":[{"name":"Paket VIP PLUS - IPDN","price":2200000,"quantity":1}],"customerDetail":{"firstName":"Nadya Utami Tambunan","lastName":"","email":"nan532829@gmail.com","phoneNumber":"085370538480"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS17674244ZDDAJA24VQU8MY","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS17674244ZDDAJA24VQU8MY","amount":"2200000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 13:45:48
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1708065948","productDetails":"Pembelian Paket IPDN","additionalParam":"","merchantUserInfo":"","customerVaName":"Nadya Utami Tambunan","email":"nan532829@gmail.com","phoneNumber":"085370538480","itemDetails":[{"name":"Tryout IPDN","price":150000,"quantity":1}],"customerDetail":{"firstName":"Nadya Utami Tambunan","lastName":"","email":"nan532829@gmail.com","phoneNumber":"085370538480"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424CXU83WZTKZ7EB0U","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424CXU83WZTKZ7EB0U","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 16:07:33
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":799000,"merchantOrderId":"1708074453","productDetails":"Pembelian Paket BINTARA TNI-POLRI","additionalParam":"","merchantUserInfo":"","customerVaName":"Rivi Hariadi","email":"rivihariadinovi@gmail.com","phoneNumber":"085759740768","itemDetails":[{"name":"Paket Basic -  BINTARA POLRI","price":799000,"quantity":1}],"customerDetail":{"firstName":"Rivi Hariadi","lastName":"","email":"rivihariadinovi@gmail.com","phoneNumber":"085759740768"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424NOF0I3EY0RIN5KL","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424NOF0I3EY0RIN5KL","amount":"799000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-16 16:07:57
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":150000,"merchantOrderId":"1708074476","productDetails":"Pembelian Paket BINTARA TNI-POLRI","additionalParam":"","merchantUserInfo":"","customerVaName":"Rivi Hariadi","email":"rivihariadinovi@gmail.com","phoneNumber":"085759740768","itemDetails":[{"name":"Tryout Bintara POLRI","price":150000,"quantity":1}],"customerDetail":{"firstName":"Rivi Hariadi","lastName":"","email":"rivihariadinovi@gmail.com","phoneNumber":"085759740768"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424F7ZFTQC7R2HUVSU","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424F7ZFTQC7R2HUVSU","amount":"150000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

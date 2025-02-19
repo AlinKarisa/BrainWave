@@ -1,0 +1,35 @@
+Date:2023-07-06 08:30:01
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1688607000","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Basic Sekdin","price":45000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115804HA7H7GSVKFJRBU","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115804HA7H7GSVKFJRBU","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-06 15:06:46
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1688630806","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Premium Bidan","price":85000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580QMZTGUZY7RBYF0A","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580QMZTGUZY7RBYF0A","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-06 20:08:18
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":97000,"merchantOrderId":"1688648898","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Lastri","email":"lastriyumna12@gmail.com","phoneNumber":"082393255255","itemDetails":[{"name":"Paket Spesial Bidan (+Ebook Soal)","price":97000,"quantity":1}],"customerDetail":{"firstName":"Lastri","lastName":"","email":"lastriyumna12@gmail.com","phoneNumber":"082393255255"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580CNDPIZ8Y7HUN70U","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580CNDPIZ8Y7HUN70U","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-06 20:41:39
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1688650899","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Basic Sekdin","price":45000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580KWOI1BJ7HHIU1JC","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580KWOI1BJ7HHIU1JC","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-06 20:44:17
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1688651057","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Basic Sekdin","price":45000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580OZPVACYB1M15GDY","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580OZPVACYB1M15GDY","statusCode":"00","statusMessage":"SUCCESS"}
+

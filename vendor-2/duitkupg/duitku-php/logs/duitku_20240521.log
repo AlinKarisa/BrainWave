@@ -1,0 +1,14 @@
+Date:2024-05-21 11:00:17
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":49900,"merchantOrderId":"1716264016","productDetails":"Pembelian Paket [Premium] Paket 3 TO + 1 TO Gratis","additionalParam":"","merchantUserInfo":"","customerVaName":"Ardhina S.D","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"[Premium 3 Paket] Tryout CPNS/ASN 2024","price":49900,"quantity":1}],"customerDetail":{"firstName":"Ardhina S.D","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://apps.andalancpns.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924WMO111QV5HE1K4J","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924WMO111QV5HE1K4J","amount":"49900.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-05-21 11:01:44
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":49900,"merchantOrderId":"1716264104","productDetails":"Pembelian Paket [Premium] Paket 3 TO + 1 TO Gratis","additionalParam":"","merchantUserInfo":"","customerVaName":"Cindy Gloria","email":"casualclassicisamust@gmail.com","phoneNumber":"08562010775","itemDetails":[{"name":"[Premium 3 Paket] Tryout CPNS/ASN 2024","price":49900,"quantity":1}],"customerDetail":{"firstName":"Cindy Gloria","lastName":"","email":"casualclassicisamust@gmail.com","phoneNumber":"08562010775"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://apps.andalancpns.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D148892453USAVJB4K30Y6C","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D148892453USAVJB4K30Y6C","amount":"49900.00","statusCode":"00","statusMessage":"SUCCESS"}
+

@@ -1,0 +1,7 @@
+Date:2024-01-06 09:19:39
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":30000,"merchantOrderId":"1704507579","productDetails":"Pembelian Paket AKPOL","additionalParam":"","merchantUserInfo":"","customerVaName":"Ardhina S.D","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"VIP Plus","price":30000,"quantity":1}],"customerDetail":{"firstName":"Ardhina S.D","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://sistem.generasiandalan.com/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424P7R2SVDWNXUQ1MO","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424P7R2SVDWNXUQ1MO","amount":"30000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

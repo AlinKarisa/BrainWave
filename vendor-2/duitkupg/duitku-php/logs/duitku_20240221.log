@@ -1,0 +1,35 @@
+Date:2024-02-21 11:47:26
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":799000,"merchantOrderId":"1708490845","productDetails":"Pembelian Paket AKPOL","additionalParam":"","merchantUserInfo":"","customerVaName":"cutismah","email":"cutismah@gmail.com","phoneNumber":"089786767676","itemDetails":[{"name":"Paket Basic - AKPOL","price":799000,"quantity":1}],"customerDetail":{"firstName":"cutismah","lastName":"","email":"cutismah@gmail.com","phoneNumber":"089786767676"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS17674244WO37XZHOPUMPPA","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS17674244WO37XZHOPUMPPA","amount":"799000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-21 17:45:38
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":1299000,"merchantOrderId":"1708512338","productDetails":"Pembelian Paket BINTARA TNI-POLRI","additionalParam":"","merchantUserInfo":"","customerVaName":"Kevin djuan Hityahub","email":"kevindjuan0204@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Reguler - BINTARA POLRI","price":1299000,"quantity":1}],"customerDetail":{"firstName":"Kevin djuan Hityahubessy","lastName":"","email":"kevindjuan0204@gmail.com","phoneNumber":""},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424II8VQKGVRYFF37B","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424II8VQKGVRYFF37B","amount":"1299000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-21 17:46:53
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":1299000,"merchantOrderId":"1708512413","productDetails":"Pembelian Paket BINTARA TNI-POLRI","additionalParam":"","merchantUserInfo":"","customerVaName":"Kevin djuan Hityahub","email":"kevindjuan0204@gmail.com","phoneNumber":"","itemDetails":[{"name":"Paket Reguler - BINTARA POLRI","price":1299000,"quantity":1}],"customerDetail":{"firstName":"Kevin djuan Hityahubessy","lastName":"","email":"kevindjuan0204@gmail.com","phoneNumber":""},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424VSNJRXI6WKXZQ3E","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424VSNJRXI6WKXZQ3E","amount":"1299000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-21 19:51:42
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":500000,"merchantOrderId":"1708519901","productDetails":"Pembelian Paket PSIKOTEST","additionalParam":"","merchantUserInfo":"","customerVaName":"Ganda Fix","email":"gandafix864@gmail.com","phoneNumber":"","itemDetails":[{"name":"Kelas Psikotes","price":500000,"quantity":1}],"customerDetail":{"firstName":"Ganda Fix","lastName":"","email":"gandafix864@gmail.com","phoneNumber":""},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424J14ICFJ8LRBO4JU","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424J14ICFJ8LRBO4JU","amount":"500000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-21 19:53:25
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":500000,"merchantOrderId":"1708520005","productDetails":"Pembelian Paket PSIKOTEST","additionalParam":"","merchantUserInfo":"","customerVaName":"Ganda Fix","email":"gandafix864@gmail.com","phoneNumber":"","itemDetails":[{"name":"Kelas Psikotes","price":500000,"quantity":1}],"customerDetail":{"firstName":"Ganda Fix","lastName":"","email":"gandafix864@gmail.com","phoneNumber":""},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424QA13I4I1324Y3KT","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424QA13I4I1324Y3KT","amount":"500000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

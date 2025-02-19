@@ -1,0 +1,7 @@
+Date:2024-01-05 17:25:39
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1704450338","productDetails":"Pembelian Paket AKPOL","additionalParam":"","merchantUserInfo":"","customerVaName":"sofranita arissiani","email":"sofranitaarissiani@gmail.com","phoneNumber":"081370816999","itemDetails":[{"name":"Paket Basic","price":20000,"quantity":1}],"customerDetail":{"firstName":"sofranita arissiani","lastName":"","email":"sofranitaarissiani@gmail.com","phoneNumber":"081370816999"},"callbackUrl":"https://sistem.generasiandalan.com/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424NQ8HTN0ZEP3XKKH","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424NQ8HTN0ZEP3XKKH","amount":"20000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

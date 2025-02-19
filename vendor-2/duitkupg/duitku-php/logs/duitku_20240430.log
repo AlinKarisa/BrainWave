@@ -1,0 +1,7 @@
+Date:2024-04-30 22:56:14
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":50000,"merchantOrderId":"1714492574","productDetails":"Pembelian Paket [Premium] Paket 3 TO + 1 TO Gratis","additionalParam":"","merchantUserInfo":"","customerVaName":"Cindy Gloria","email":"casualclassicisamust@gmail.com","phoneNumber":"08562010775","itemDetails":[{"name":"[Premium 3 Paket] Tryout CPNS/ASN 2024","price":50000,"quantity":1}],"customerDetail":{"firstName":"Cindy Gloria","lastName":"","email":"casualclassicisamust@gmail.com","phoneNumber":"08562010775"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://apps.andalancpns.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D148892486UGT4UUVJNFSM5","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D148892486UGT4UUVJNFSM5","amount":"50000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

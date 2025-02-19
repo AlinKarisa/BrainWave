@@ -1,0 +1,103 @@
+Date:2023-07-04 03:03:22
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":40000,"merchantOrderId":"1688414601","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Hasrati Husfahsari R","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904","itemDetails":[{"name":"Paket Basic Epid","price":40000,"quantity":1}],"customerDetail":{"firstName":"Hasrati Husfahsari Ramadhani","lastName":"","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580KX1IGKY4AN6YLGT","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580KX1IGKY4AN6YLGT","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 09:01:28
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":40000,"merchantOrderId":"1688436088","productDetails":"Pembelian Paket (PPPK) Perencana Ahli","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Basic Perencana","price":40000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580TF8C15QBXRTZELK","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580TF8C15QBXRTZELK","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 09:15:53
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":80000,"merchantOrderId":"1688436953","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"DANITA PRAYUDA","email":"danitaprayuda666@gmail.com","phoneNumber":"082182719859","itemDetails":[{"name":"Paket Premium Epid","price":80000,"quantity":1}],"customerDetail":{"firstName":"DANITA PRAYUDA","lastName":"","email":"danitaprayuda666@gmail.com","phoneNumber":"082182719859"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580GR5UD4C3CA16FVP","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580GR5UD4C3CA16FVP","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 09:32:52
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"80000","merchantOrderId":"1688436953","productDetail":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580GR5UD4C3CA16FVP","signature":"212d70df3bdb1c5f5d4bb6666263d10a","publisherOrderId":"BRMA1EL5ADKSDQVF1","settlementDate":"2023-07-05","vaNumber":"1308300187394246"}
+
+Date:2023-07-04 09:45:54
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1688438754","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Spesial Sekdin (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580A1ZH47MZGPIPZC3","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580A1ZH47MZGPIPZC3","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 10:26:27
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1688441187","productDetails":"Pembelian Paket SKD CPNS","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Spesial SKD (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580K08HGC1XWPE2U4L","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580K08HGC1XWPE2U4L","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 10:55:57
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":40000,"merchantOrderId":"1688442957","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Hasrati Husfahsari R","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904","itemDetails":[{"name":"Paket Basic Epid","price":40000,"quantity":1}],"customerDetail":{"firstName":"Hasrati Husfahsari Ramadhani","lastName":"","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115804ZRT1ZNI0A8JJ0S","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115804ZRT1ZNI0A8JJ0S","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 10:58:47
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":40000,"merchantOrderId":"1688443127","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Hasrati Husfahsari R","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904","itemDetails":[{"name":"Paket Basic Epid","price":40000,"quantity":1}],"customerDetail":{"firstName":"Hasrati Husfahsari Ramadhani","lastName":"","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580E7EPFSH5HFVHBTQ","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580E7EPFSH5HFVHBTQ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 11:01:49
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":40000,"merchantOrderId":"1688443308","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Hasrati Husfahsari R","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904","itemDetails":[{"name":"Paket Basic Epid","price":40000,"quantity":1}],"customerDetail":{"firstName":"Hasrati Husfahsari Ramadhani","lastName":"","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580DRM2PEIV143IBA0","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580DRM2PEIV143IBA0","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 11:02:49
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":40000,"merchantOrderId":"1688443369","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Hasrati Husfahsari R","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904","itemDetails":[{"name":"Paket Basic Epid","price":40000,"quantity":1}],"customerDetail":{"firstName":"Hasrati Husfahsari Ramadhani","lastName":"","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580SL5W0L8CWDWB8OB","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580SL5W0L8CWDWB8OB","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 11:05:59
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1688443559","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Premium Bidan","price":85000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D1158032UP4F00PVHHSAC","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1158032UP4F00PVHHSAC","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 11:09:59
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":40000,"merchantOrderId":"1688443799","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Hasrati Husfahsari R","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904","itemDetails":[{"name":"Paket Basic Epid","price":40000,"quantity":1}],"customerDetail":{"firstName":"Hasrati Husfahsari Ramadhani","lastName":"","email":"matchaciih.bucket@gmail.com","phoneNumber":"08117041904"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580UIIZNTV4720WT81","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580UIIZNTV4720WT81","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 11:35:21
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"40000","merchantOrderId":"1688443799","productDetail":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","resultCode":"00","signature":"af2876fb5c77264305b4bd5f2aeca87d","paymentCode":"M2","merchantUserId":"","reference":"D11580UIIZNTV4720WT81","spUserHash":"","settlementDate":"2023-07-05","publisherOrderId":"M28TISI4S6QGBYRCD"}
+
+Date:2023-07-04 20:59:30
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1688479170","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Pryo desghaldo lauen","email":"priyolauende@gmail.com","phoneNumber":"082299066466","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Pryo desghaldo lauende","lastName":"","email":"priyolauende@gmail.com","phoneNumber":"082299066466"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580IC0HPM0JDFFEWSG","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580IC0HPM0JDFFEWSG","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 21:02:05
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1688479325","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Pryo desghaldo lauen","email":"priyolauende@gmail.com","phoneNumber":"082299066466","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Pryo desghaldo lauende","lastName":"","email":"priyolauende@gmail.com","phoneNumber":"082299066466"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580LDXD3LV2JW4JXU5","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580LDXD3LV2JW4JXU5","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-04 21:03:55
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1688479170","productDetail":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","resultCode":"00","signature":"1c42e38930c053824ba2169200df79f2","paymentCode":"M2","merchantUserId":"","reference":"D11580IC0HPM0JDFFEWSG","spUserHash":"","settlementDate":"2023-07-05","publisherOrderId":"M2MQ06QSN75O7J5AU"}
+

@@ -1,0 +1,14 @@
+Date:2024-02-17 21:04:52
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":500000,"merchantOrderId":"1708178691","productDetails":"Pembelian Paket PSIKOTEST","additionalParam":"","merchantUserInfo":"","customerVaName":"Gede Patar Marayoga","email":"astroboboboi6@gmail.com","phoneNumber":"085389069181","itemDetails":[{"name":"Kelas Psikotes","price":500000,"quantity":1}],"customerDetail":{"firstName":"Gede Patar Marayoga","lastName":"","email":"astroboboboi6@gmail.com","phoneNumber":"085389069181"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424G784B7L5Q4XCTM8","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424G784B7L5Q4XCTM8","amount":"500000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-02-17 21:06:04
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":500000,"merchantOrderId":"1708178764","productDetails":"Pembelian Paket PSIKOTEST","additionalParam":"","merchantUserInfo":"","customerVaName":"Gede Patar Marayoga","email":"astroboboboi6@gmail.com","phoneNumber":"085389069181","itemDetails":[{"name":"Kelas Psikotes","price":500000,"quantity":1}],"customerDetail":{"firstName":"Gede Patar Marayoga","lastName":"","email":"astroboboboi6@gmail.com","phoneNumber":"085389069181"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.generasiandalan.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS17674248E44H17WTCD3Q3E","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS17674248E44H17WTCD3Q3E","amount":"500000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

@@ -1,0 +1,14 @@
+Date:2024-04-22 16:34:03
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":200000,"merchantOrderId":"1713778443","productDetails":"Pembelian Paket TRYOUT","additionalParam":"","merchantUserInfo":"","customerVaName":"demo Demo","email":"marsa@duitku.com","phoneNumber":"08170092597","itemDetails":[{"name":"Tryout Premium (10 pax)","price":200000,"quantity":1}],"customerDetail":{"firstName":"demo Demo","lastName":"","email":"marsa@duitku.com","phoneNumber":"08170092597"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.andalancpns.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424MWOZ2PVVMU8DSC5","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424MWOZ2PVVMU8DSC5","amount":"200000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-04-22 16:55:00
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":200000,"merchantOrderId":"1713779699","productDetails":"Pembelian Paket TRYOUT","additionalParam":"","merchantUserInfo":"","customerVaName":"demo Demo","email":"marsa@duitku.com","phoneNumber":"08170092597","itemDetails":[{"name":"Tryout Premium (10 pax)","price":200000,"quantity":1}],"customerDetail":{"firstName":"demo Demo","lastName":"","email":"marsa@duitku.com","phoneNumber":"08170092597"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.andalancpns.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424RBQ4MVFTXQ7SR75","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424RBQ4MVFTXQ7SR75","amount":"200000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

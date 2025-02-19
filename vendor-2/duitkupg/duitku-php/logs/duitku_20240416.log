@@ -1,0 +1,14 @@
+Date:2024-04-16 11:18:41
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1713241120","productDetails":"Pembelian Paket tester","additionalParam":"","merchantUserInfo":"","customerVaName":"Ardhina S.D","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Testing","price":20000,"quantity":1}],"customerDetail":{"firstName":"Ardhina S.D","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.andalancpns.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424ZKPWFSX6AIO4WMN","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424ZKPWFSX6AIO4WMN","amount":"20000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-04-16 11:23:27
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1713241407","productDetails":"Pembelian Paket tester","additionalParam":"","merchantUserInfo":"","customerVaName":"Ardhina S.D","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Testing","price":20000,"quantity":1}],"customerDetail":{"firstName":"Ardhina S.D","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.andalancpns.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424FSD7AMLO0AE520M","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424FSD7AMLO0AE520M","amount":"20000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

@@ -1,0 +1,35 @@
+Date:2024-06-29 11:58:24
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":100000,"merchantOrderId":"1719637102","productDetails":"Pembelian Paket MK5","additionalParam":"","merchantUserInfo":"","customerVaName":".","email":"karisalynnn@gmail.com","phoneNumber":"0812345678","itemDetails":[{"name":"kewirausahaan","price":100000,"quantity":1}],"customerDetail":{"firstName":".","lastName":"","email":"karisalynnn@gmail.com","phoneNumber":"0812345678"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://orangdalam.ujian.or.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924NARL0FH36E2EMK6","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924NARL0FH36E2EMK6","amount":"100000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-06-29 12:00:24
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":200000,"merchantOrderId":"1719637223","productDetails":"Pembelian Paket MK5","additionalParam":"","merchantUserInfo":"","customerVaName":"parjorendra","email":"pr@gmail.com","phoneNumber":"65436543227654","itemDetails":[{"name":"kewirausahaan","price":200000,"quantity":1}],"customerDetail":{"firstName":"parjorendra","lastName":"","email":"pr@gmail.com","phoneNumber":"65436543227654"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://orangdalam.ujian.or.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924KSMHZHO4RMM5SSZ","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924KSMHZHO4RMM5SSZ","amount":"200000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-06-29 12:12:13
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":25000,"merchantOrderId":"1719637932","productDetails":"Pembelian Paket MK3","additionalParam":"","merchantUserInfo":"","customerVaName":".","email":"karisalynnn@gmail.com","phoneNumber":"0812345678","itemDetails":[{"name":"test","price":25000,"quantity":1}],"customerDetail":{"firstName":".","lastName":"","email":"karisalynnn@gmail.com","phoneNumber":"0812345678"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://orangdalam.ujian.or.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924L1SED0E3A12CM7O","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924L1SED0E3A12CM7O","amount":"25000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-06-29 12:19:05
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":100000,"merchantOrderId":"1719638344","productDetails":"Pembelian Paket MK5","additionalParam":"","merchantUserInfo":"","customerVaName":"nasi padang","email":"lupa.sandi.males.nyari@gmail.com","phoneNumber":"085156117056","itemDetails":[{"name":"kewirausahaan","price":100000,"quantity":1}],"customerDetail":{"firstName":"nasi padang","lastName":"","email":"lupa.sandi.males.nyari@gmail.com","phoneNumber":"085156117056"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://orangdalam.ujian.or.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924PJ3GGQ7T7SSDPGL","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924PJ3GGQ7T7SSDPGL","amount":"100000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-06-29 12:30:04
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":50000,"merchantOrderId":"1719639002","productDetails":"Pembelian Paket MK3","additionalParam":"","merchantUserInfo":"","customerVaName":"parjorendra","email":"pr@gmail.com","phoneNumber":"65436543227654","itemDetails":[{"name":"test","price":50000,"quantity":1}],"customerDetail":{"firstName":"parjorendra","lastName":"","email":"pr@gmail.com","phoneNumber":"65436543227654"},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://orangdalam.ujian.or.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D14889244H6TJVABW627ALL","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D14889244H6TJVABW627ALL","amount":"50000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

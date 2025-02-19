@@ -1,0 +1,21 @@
+Date:2024-07-05 12:46:59
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1720158417","productDetails":"Pembelian Paket siswa","additionalParam":"","merchantUserInfo":"","customerVaName":"541221021 ALIN KARIS","email":"541221021@student.smktelkom-pwt.sch.id","phoneNumber":"","itemDetails":[{"name":"Ujian Manual","price":20000,"quantity":1}],"customerDetail":{"firstName":"541221021 ALIN KARISA HIZANNAH","lastName":"","email":"541221021@student.smktelkom-pwt.sch.id","phoneNumber":""},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://orangdalam.ujian.or.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924S6DWJWOSKFN5S1H","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924S6DWJWOSKFN5S1H","amount":"20000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-07-05 12:53:17
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1720158796","productDetails":"Pembelian Paket siswa","additionalParam":"","merchantUserInfo":"","customerVaName":"541221021 ALIN KARIS","email":"541221021@student.smktelkom-pwt.sch.id","phoneNumber":"","itemDetails":[{"name":"Ujian Manual","price":20000,"quantity":1}],"customerDetail":{"firstName":"541221021 ALIN KARISA HIZANNAH","lastName":"","email":"541221021@student.smktelkom-pwt.sch.id","phoneNumber":""},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://orangdalam.ujian.or.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924M5WB2EK2CXCU4OK","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924M5WB2EK2CXCU4OK","amount":"20000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2024-07-05 12:55:31
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1720158930","productDetails":"Pembelian Paket siswa","additionalParam":"","merchantUserInfo":"","customerVaName":"541221021 ALIN KARIS","email":"541221021@student.smktelkom-pwt.sch.id","phoneNumber":"","itemDetails":[{"name":"Ujian Manual","price":20000,"quantity":1}],"customerDetail":{"firstName":"541221021 ALIN KARISA HIZANNAH","lastName":"","email":"541221021@student.smktelkom-pwt.sch.id","phoneNumber":""},"callbackUrl":"https://apps.andalancpns.id/api/callbackduitku","returnUrl":"https://orangdalam.ujian.or.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D14889","reference":"D1488924VBCE4Y7ZJI1MYHV","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1488924VBCE4Y7ZJI1MYHV","amount":"20000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

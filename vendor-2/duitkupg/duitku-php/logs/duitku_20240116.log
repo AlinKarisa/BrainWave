@@ -1,0 +1,7 @@
+Date:2024-01-16 11:39:50
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":400000,"merchantOrderId":"1705379981","productDetails":"Pembelian Paket dasd","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"asd","price":400000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://sistem.generasiandalan.com/api/callbackduitku","returnUrl":"http://127.0.0.1:8000/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424ZEB06KTJA5AVIRE","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424ZEB06KTJA5AVIRE","amount":"400000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

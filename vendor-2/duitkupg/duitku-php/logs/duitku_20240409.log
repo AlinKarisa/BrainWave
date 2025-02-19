@@ -1,0 +1,7 @@
+Date:2024-04-09 13:52:10
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1712645515","productDetails":"Pembelian Paket tester","additionalParam":"","merchantUserInfo":"","customerVaName":"Cindy Gloria","email":"casualclassicisamust@gmail.com","phoneNumber":"08562010775","itemDetails":[{"name":"Testing","price":20000,"quantity":1}],"customerDetail":{"firstName":"Cindy Gloria","lastName":"","email":"casualclassicisamust@gmail.com","phoneNumber":"08562010775"},"callbackUrl":"https://sistem.generasiandalan.id/api/callbackduitku","returnUrl":"https://apps.andalancpns.id/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS17674","reference":"DS1767424BWMRHWGKBS23ENU","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1767424BWMRHWGKBS23ENU","amount":"20000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

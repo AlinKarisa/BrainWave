@@ -1,0 +1,11 @@
+Date:2023-08-03 19:42:38
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1691066558","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Susi Hardiyanti","email":"susihardiyanti94@gmail.com","phoneNumber":"081369567426","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Susi Hardiyanti","lastName":"","email":"susihardiyanti94@gmail.com","phoneNumber":"081369567426"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115806BIOCLSWQVQLXVG","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115806BIOCLSWQVQLXVG","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-03 19:44:16
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1691066558","productDetail":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","resultCode":"00","signature":"fea12fa4cd663ce99bed414ba4076db8","paymentCode":"SA","merchantUserId":"","reference":"D115806BIOCLSWQVQLXVG","spUserHash":"41fbfc96010c01dd33cd0e09a955030aadc3ec78312c08bf04801d2c9d2b192a","settlementDate":"2023-08-05","publisherOrderId":"SAJ31V4JYW418DQGU"}
+

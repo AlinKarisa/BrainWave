@@ -1,0 +1,18 @@
+Date:2023-08-06 10:38:09
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1691293089","productDetails":"Pembelian Paket (PPPK) Pranata Komputer","additionalParam":"","merchantUserInfo":"","customerVaName":"M. ILHAM SYAH PUTRA","email":"pemudababel34@gmail.com","phoneNumber":"085279107896","itemDetails":[{"name":"Paket Spesial Prakom (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"M. ILHAM SYAH PUTRA","lastName":"","email":"pemudababel34@gmail.com","phoneNumber":"085279107896"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580OJH8OOX0H2VCR3U","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580OJH8OOX0H2VCR3U","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-06 10:43:34
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1691293414","productDetails":"Pembelian Paket (PPPK) Pranata Komputer","additionalParam":"","merchantUserInfo":"","customerVaName":"M. ILHAM SYAH PUTRA","email":"pemudababel34@gmail.com","phoneNumber":"085279107896","itemDetails":[{"name":"Paket Spesial Prakom (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"M. ILHAM SYAH PUTRA","lastName":"","email":"pemudababel34@gmail.com","phoneNumber":"085279107896"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115800KZJC7V30BPYXX2","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115800KZJC7V30BPYXX2","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-06 10:49:25
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1691293414","productDetail":"Pembelian Paket (PPPK) Pranata Komputer","additionalParam":"","resultCode":"00","signature":"3295e3560e671d3096f961aa692f3d4f","paymentCode":"DA","merchantUserId":"","reference":"D115800KZJC7V30BPYXX2","spUserHash":"","settlementDate":"2023-08-08","publisherOrderId":"DAD627CEH61EI7UIU"}
+

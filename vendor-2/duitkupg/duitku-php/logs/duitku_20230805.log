@@ -1,0 +1,21 @@
+Date:2023-08-05 04:44:22
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1691185462","productDetails":"Pembelian Paket (CPNS) SKB Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580RWHM5XBJSKS5Q8T","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580RWHM5XBJSKS5Q8T","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-05 19:13:50
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1691237630","productDetails":"Pembelian Paket (PPPK) Pranata Komputer","additionalParam":"","merchantUserInfo":"","customerVaName":"M. ILHAM SYAH PUTRA","email":"pemudababel34@gmail.com","phoneNumber":"085279107896","itemDetails":[{"name":"Paket Spesial Prakom (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"M. ILHAM SYAH PUTRA","lastName":"","email":"pemudababel34@gmail.com","phoneNumber":"085279107896"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580N1Z80D62SXPKKV8","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580N1Z80D62SXPKKV8","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-05 23:51:33
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1691254293","productDetails":"Pembelian Paket (CPNS) SKB Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580QQCQEQSBSCR4AWR","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580QQCQEQSBSCR4AWR","statusCode":"00","statusMessage":"SUCCESS"}
+
