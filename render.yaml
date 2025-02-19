@@ -1,0 +1,13 @@
+services:
+  - name: laravel-app
+    type: web
+    env: docker
+    repo: https://github.com/username/reponame
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: APP_KEY
+        value: your-laravel-app-key
+      - key: DB_CONNECTION
+        value: sqlite
